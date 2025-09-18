@@ -1,0 +1,5 @@
+{
+  "name": "FlyerSpark AI",
+  "description": "An AI-powered assistant developed by LemmaIoT, that generates creative design ideas for flyers. Provide your context and caption, and get instant suggestions for headlines, calls-to-action, visual components, color palettes, and typography to kickstart your design process.",
+  "requestFramePermissions": []
+}
